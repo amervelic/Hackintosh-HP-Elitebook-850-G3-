@@ -4,7 +4,7 @@
 
 ![Ventura](/images/ventura.jpeg)
 
-### Things that are working and their corresponding kexts:
+### Corresponding kexts:
 
 - Intel HD 520 graphics - [WhateverGreen](https://github.com/acidanthera/WhateverGreen), AAPL,ig-platform-id = 00001B59 , device-id = 16590000
 - Intel AC 8260 WiFi+BT - [AirportItlwm Alpha](https://github.com/OpenIntelWireless/itlwm/releases)
