@@ -4,6 +4,10 @@
 
 ![Ventura](/images/ventura.jpeg)
 
+![](https://img.shields.io/github/issues/amervelic/Hackintosh-HP-Elitebook-850-G3-)
+![](https://img.shields.io/github/forks/amervelic/Hackintosh-HP-Elitebook-850-G3-)
+![](https://img.shields.io/github/stars/amervelic/Hackintosh-HP-Elitebook-850-G3-)
+
 ### Corresponding kexts:
 
 - Intel HD 520 graphics - [WhateverGreen](https://github.com/acidanthera/WhateverGreen), AAPL,ig-platform-id = 00001B59 , device-id = 16590000
