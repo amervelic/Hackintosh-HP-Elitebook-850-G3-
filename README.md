@@ -7,6 +7,7 @@
 ### Corresponding kexts:
 
 - Intel HD 520 graphics - [WhateverGreen](https://github.com/acidanthera/WhateverGreen), AAPL,ig-platform-id = 00001B59 , device-id = 16590000
+- Conexant CX20724 ISST Audio - [ AppleALC](https://github.com/acidanthera/AppleALC), , layout ID 13
 - Intel AC 8260 WiFi+BT - [AirportItlwm Alpha](https://github.com/OpenIntelWireless/itlwm/releases)
 
 - Intel I219-LM Ethernet - [IntelMausiEthernet](https://github.com/acidanthera/IntelMausi)
