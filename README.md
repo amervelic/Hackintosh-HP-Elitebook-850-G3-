@@ -4,9 +4,6 @@
 
 ![Ventura](/images/ventura.jpeg)
 
-![](https://img.shields.io/github/issues/amervelic/Hackintosh-HP-Elitebook-850-G3-)
-![](https://img.shields.io/github/forks/amervelic/Hackintosh-HP-Elitebook-850-G3-)
-![](https://img.shields.io/github/stars/amervelic/Hackintosh-HP-Elitebook-850-G3-)
 
 ### Note for clean install
 
