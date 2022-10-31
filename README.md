@@ -8,6 +8,8 @@
 ### Note for clean install
 
 - Change SMBIOS to Macbook Pro 14,1
+![SMBIOS](/images/smbios.jpeg)
+Tool: [OCAT](https://img.shields.io/github/stars/amervelic/Hackintosh-HP-Elitebook-850-G3-)
 - SSD format to APFS (for install to external SSD)
 - After install back to SMBIOS 13,2 and flag -no_compat_check
 ### Corresponding kexts:
