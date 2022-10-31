@@ -5,6 +5,7 @@
 ![Ventura](/images/ventura.jpeg)
 
 
+
 ### Note for clean install
 
 - Change SMBIOS to Macbook Pro 14,1
