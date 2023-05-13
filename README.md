@@ -1,6 +1,6 @@
 # Hackintosh HP EliteBook 850 G3
 
-## macOS Ventura 13.1 - OpenCore version 0.8.8
+## macOS Ventura 13.3.1 - OpenCore version 0.9.2
 
 ![Ventura](/images/ventura.jpeg)
 
