@@ -17,7 +17,7 @@ Tool: [OCAT](https://img.shields.io/github/stars/amervelic/Hackintosh-HP-Elitebo
 
 - Intel HD 520 graphics - [WhateverGreen](https://github.com/acidanthera/WhateverGreen), AAPL,ig-platform-id = 00001B59 , device-id = 16590000
 - Conexant CX20724 ISST Audio - [ AppleALC](https://github.com/acidanthera/AppleALC), , layout ID 13
-- Intel AC 8260 WiFi+BT - [AirportItlwm Alpha](https://github.com/OpenIntelWireless/itlwm/releases) + [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+- Intel AC 8260 WiFi+BT - [AirportItlwm](https://github.com/OpenIntelWireless/itlwm/releases) + [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 
 - Intel I219-LM Ethernet - [IntelMausiEthernet](https://github.com/acidanthera/IntelMausi)
 - Battery percentage - [SMCBatteryManager](https://github.com/acidanthera/VirtualSMC),[ECEnabler](https://github.com/1Revenger1/ECEnabler)
